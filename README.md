@@ -39,13 +39,13 @@ The API relies on PostgreSQL data storage solution.
 
 [esbuild](https://esbuild.github.io/) is used to build the project. run: `npm run build`
 
-### Developing
+## Developing
 
-#### API 
+### API 
 
 To start the API run `npm run dev:start:api`
 
-#### DB
+### DB
 
 To start the database run `npm run dev:start:db`
 
