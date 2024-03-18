@@ -52,3 +52,5 @@ To start the database run `npm run dev:start:db`
 ## Testing
 
 Testing functionality is provided by [jest](https://jestjs.io/)
+
+To run tests use: `npm run test`
