@@ -2,7 +2,7 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import { createV1Router } from './router/v1/router';
 import NodeCache from 'node-cache';
-import { OrmClient } from './db';
+import { OrmClient } from './db/orm';
 import { Config } from './config';
 import logger from './lib/logger';
 import { HTTPStatusCode } from './router/utils/apiResponse';
